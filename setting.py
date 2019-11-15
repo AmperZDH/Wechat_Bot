@@ -1,19 +1,19 @@
 '''
 Global settings
 '''
-#设置你的邮箱号
-EMAIL_ADDRESS = ''
+# 设置你的邮箱号
+EMAIL_ADDRESS = 'amberzdh@163.com'
 
-#STMP开启下的邮箱密码
-EMAIL_PASSWORD = ''
+# STMP开启下的邮箱密码
+EMAIL_PASSWORD = 'Amber123zdh'
 
-#邮箱的STMP地址
-EMAIL_STMP = ''
+# 邮箱的STMP地址
+EMAIL_STMP = 'smtp.163.com'
 
-#收件人，建议填自己便于实现特别关心
-RECEIVER_EMAIL = ''
+# 收件人，建议填自己便于实现特别关心
+RECEIVER_EMAIL = 'amberzdh@163.com'
 
-#help功能文档
+# help功能文档
 DOC = '【功能说明】\n向自己的账号发送关键词可使用功能，传输助手负责提示使用功能情况:\n\n' \
       'help:显示帮助文档\n' \
       'status:显示机器人状态\n' \
