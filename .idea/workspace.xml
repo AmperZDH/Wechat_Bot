@@ -4,8 +4,7 @@
     <list default="true" id="137cf21a-5f2d-4fa5-9639-b0c4b3d38153" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/setting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wxcontacts/wxContacts.db" beforeDir="false" afterPath="$PROJECT_DIR$/wxcontacts/wxContacts.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autochat.py" beforeDir="false" afterPath="$PROJECT_DIR$/autochat.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -222,7 +221,9 @@
       <workItem from="1570434989329" duration="14000" />
       <workItem from="1570764292787" duration="1014000" />
       <workItem from="1570852506991" duration="214000" />
-      <workItem from="1573813283630" duration="15158000" />
+      <workItem from="1573813283630" duration="15798000" />
+      <workItem from="1573833931475" duration="310000" />
+      <workItem from="1573834368221" duration="1992000" />
     </task>
     <servers />
   </component>
@@ -234,11 +235,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -258,7 +264,7 @@
     <SUITE FILE_PATH="coverage/ChatBot_wx$mail_send.coverage" NAME="mail_send Coverage Results" MODIFIED="1568772913212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools/email_tools" />
     <SUITE FILE_PATH="coverage/ChatBot_wx$chabot.coverage" NAME="chabot Coverage Results" MODIFIED="1573813845913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ChatBot_wx$test.coverage" NAME="test Coverage Results" MODIFIED="1568620141886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ChatBot_wx$autochat.coverage" NAME="autochat Coverage Results" MODIFIED="1573827214096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChatBot_wx$autochat.coverage" NAME="autochat Coverage Results" MODIFIED="1573834759699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ChatBot_wx$sqlite_op__1_.coverage" NAME="sqlite_op (1) Coverage Results" MODIFIED="1568717931674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools/sql_tools" />
   </component>
 </project>

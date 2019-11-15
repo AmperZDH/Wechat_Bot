@@ -153,7 +153,7 @@ def auto_reply(msg):
 
     print('Time_split of ', sender_name, '== ', (float(time.time()) - float(sql.check_time(sender_name))))
 
-    if ((float(sql.check_time(sender_name)) + REPLY_TIME) <= float(time.time())) and (
+    if ((float(sql.check_time(sender_name)) + float(REPLY_TIME)) <= float(time.time())) and (
             bot_server == True) and sender_name not in VIP_list:
         print(time.strftime("%H:%M:%S : "), sender_name, ' 已回复')
         sql.update_time(sender_name)
